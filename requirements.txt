@@ -6,4 +6,5 @@ langchain-community
 python-dotenv
 chromadb
 tiktoken
+streamlit
 
